@@ -1,7 +1,7 @@
 {
-  "name": "test-semaphore",
+  "name": "test-drone",
   "version": "1.0.0",
-  "description": "test semaphore",
+  "description": "test drone",
   "main": "index.js",
   "directories": {
     "test": "test"
